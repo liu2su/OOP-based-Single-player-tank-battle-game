@@ -13,7 +13,11 @@ Tank movement, enemy tank is controlled by threads, for players (Case-insensitiv
 5. fire: press ```J```
 6. quit: close window
 
-Game is saved automatically
+When you run Start class, a dialog will show on the console:
+```type q for new game, type others for loading game.```
+
+- type ```q```or ```Q``` will start a new game, save will be covered
+- type other keys will continue with the last situation saved by program automatically.
 
 ![Screenshot 2023-10-07 002358](https://github.com/liu2su/OOP-based-Single-player-tank-battle-game/assets/96462566/d8b72c24-24c5-41b8-8606-fe65b108834f)
 
